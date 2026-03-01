@@ -5,6 +5,7 @@
 *.jar
 *.war
 *.ear
+*.class
 
 # JVM crash logs
 hs_err_pid*
